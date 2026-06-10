@@ -125,12 +125,12 @@ Esto permite al evaluador seguir tu razonamiento y ver los resultados de forma i
 
 | Criterio | Peso |
 |---|---|
-| Arquitectura y diseno del pipeline | 20% |
+| Arquitectura y diseno del pipeline | 25% |
 | Calidad del codigo (legibilidad, modularidad, buenas practicas) | 20% |
-| Observabilidad y data quality | 25% |
-| Transformaciones y logica de negocio | 15% |
+| Observabilidad y data quality | 15% |
+| Transformaciones y logica de negocio | 25% |
 | Tests | 10% |
-| Documentacion y decisiones de diseno | 10% |
+| Documentacion y decisiones de diseño | 5% |
 
 ---
 
