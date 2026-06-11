@@ -117,7 +117,7 @@ Esto permite al evaluador seguir tu razonamiento y ver los resultados de forma i
 4. Tablas de calidad/observabilidad consultables.
 5. Tests.
 6. Documentacion.
-7. Jupyter Notebook mostrando el paso a paso (recomendado).
+7. Jupyter Notebook mostrando el paso a paso.
 
 ---
 
